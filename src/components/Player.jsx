@@ -13,7 +13,7 @@ export default function Player() {
 
   function handleClick() {
     setSubmitted(true);
-    // setEnteredPlayerName('');
+    console.log("one test")
   }
 
   return (
