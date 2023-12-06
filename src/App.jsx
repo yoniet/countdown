@@ -7,6 +7,7 @@ function App() {
       <Player />
       <div id="challenges">
         <TimerChallenge title={"easy"} targetTime={1} />
+        <TimerChallenge title={"Not easy"} targetTime={5} />
       </div>
     </>
   );
